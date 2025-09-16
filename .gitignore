@@ -1,0 +1,46 @@
+# Binarios de Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+backend-aquiestoy
+backend-aquiestoy.exe
+
+# Archivos de test
+test
+*.test
+*.prof
+
+# Variables de entorno
+.env
+
+# Dependencias de Go
+vendor/
+
+# Archivos de sistema macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Archivos de respaldo
+*.bak
+*.tmp
+
+# Archivos de build
+build/
+dist/
